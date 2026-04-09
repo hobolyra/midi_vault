@@ -1,0 +1,6 @@
+<SCRIPT LANGUAGE="JavaScript">
+top.location.href = "http://www.mididb.com"
+</SCRIPT>
+<html><body>
+<a href="http://www.mididb.com" target="_top">Click Here</a> to continue
+</body></html>

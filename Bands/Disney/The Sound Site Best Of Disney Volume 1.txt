@@ -1,0 +1,48 @@
+
+The Sound Site Best Of Disney Volume 1
+
+	Name					Starting Time
+
+01. When You Wish Upon A Star			 0:00:00:00
+02. Colors Of The Wind	 			 0:01:49:10
+03. Go The Distance				 0:06:00:17
+04. The Bare Necessities			 0:09:18:16
+05. Reflections					 0:14:07:29
+06. Bobjour					 0:16:44:03
+07. Beauty And the Beast			 0:18:41:29	
+08. Circle Of Life				 0:21:42:10
+09. Hot Hot Hot					 0:26:19:29
+10. Some Day My Prince Will Come		 0:30:35:03
+11. A Pirate's Life For Me			 0:33:31:21
+12. Can You Feel The Love Tonight		 0:34:38:24
+13. Its A Small World				 0:39:33:27
+14. I Just Can't Wait To Be King		 0:41:14:14
+15. Love Is A Song				 0:44:01:08
+16. Bells Of Notre Dame				 0:45:07:22
+17. You've Got A Friend In Me			 0:52:25:27
+18. Part Of Your World				 0:53:38:09
+19. A Dream Is A Wish Your Heart Makes		 0:56:56:19
+20. Main Street Electrial Parade		 1:00:24:02
+
+Total Run Time 1:05:05:03
+
+
+Recommended SbLive Settings:
+
+Play Control Volume 50%
+Midi Volume 90%
+
+Mixer Bass at 90%
+Mixer Treble At 85%
+
+Super Environment Task Set to Custom
+Super Environment Preset to Concert Hall
+
+Environmental Audio - Audio HQ Setting to Auditorium
+
+
+Best Regards and Enjoy the Music,
+
+The Music Man
+
+themusicman@ismi.net

@@ -1,0 +1,41 @@
+
+The Sound Site Best Of Metallica Volume 1
+
+	Name				Starting Time
+
+01. Master Of Puppets			 0:00:00:00
+02. Breadfan				 0:07:56:14
+03. Sad But True			 0:13:21:29
+04. Where The Wild Things ARE		 0:18:43:21
+05. Turn The Page			 0:25:30:18
+06. Fuel				 0:31:09:18
+07. Unforgiven				 0:35:37:15	
+08. No Remorse				 0:41:49:20
+09. Eye Of The Beholder	 		 0:47:39:20
+10. Hero Of The Day			 0:54:04:10
+11. To Live Is To Die			 0:58:27:27
+
+
+Total Run Time 1:08:23:26
+
+
+Recommended SbLive Settings:
+
+Play Control Volume 50%
+Midi Volume 90%
+
+Mixer Bass at 90%
+Mixer Treble At 85%
+
+Super Environment Task Set to Custom
+Super Environment Preset to Concert Hall
+
+Environmental Audio - Audio HQ Setting to Heavy Metal
+
+
+
+Best Regards and Enjoy the Music,
+
+The Music Man
+
+themusicman@ismi.net
