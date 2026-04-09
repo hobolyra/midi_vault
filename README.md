@@ -2,6 +2,7 @@
 Midis for days, bois. Slowly sorting, adding, and editing this as we go.
 
 # Sorting
+If it's not in the _Confirmed folder, it's not likley sorted well. Slow and steady progress to fix that though.
 
 _Volume_needed: put sorted folders of midis here, or individual files, to be processed for volume raising.
 _Volume_output: Midis that have undergone the script and need to be moved now
