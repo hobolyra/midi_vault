@@ -1,0 +1,28 @@
+J.S. Bach
+Orchestral Suites for General MIDI - Complete
+Sequences and Interpretations by: John Hamm
+
+Notes on production:
+The MIDI files of the Orchestral Suites were created in 1995 using a Korg M1 Keyboard and Passport's Master Tracks Pro software.
+The source of the sounds used in the original sequences was the Orchestra 1 card set for the Korg M1, although some editing was done by the artist to create more authentic sounding Violin, Viola, Cello, Oboe and Flute patches.
+Owners of the Korg M1 keyboard and Orchestra 1 card set can obtain the M1-specific sequences and M1-specific SYSEX (all data) file from the artist at jfhamm@ziplink.net.
+Users of Master Tracks Pro can also request the original MTS files and Korg M1 Orchestra 1 SYSEX (all data) and instrument INI files.
+
+Notes on interpretation:
+All repeats are observed throughout the set.
+Ornamentation is added where deemed appropriate by the artist. Although fairly well educated in Baroque and Classical performance practice (a highly subjective topic), I do not claim to be THE authority on the subject. Therefore these files should not be considered an invitation for complaints or arguments regarding interpretive license. They are intended for musical experimentation and the pure enjoyment of the music of J.S. Bach.
+"If you don't like it - delete it".
+
+Notes on MIDI data:
+For the convenience of those lacking high-end MIDI gear, the following standards are maintained throughout the sequences:
+- Track volumes are set to a minimum of 100 (scale: 0-127 or 1-128).
+- Aftertouch is not used.
+- Velocity scaling is used but may not be interpreted by your MIDI device.
+
+Full-features MIDI files are available on request. If sending a request be sure to indicate the number of MIDI channels available to you and whether or not your gear supports the General MIDI specification.
+
+Please feel free to send comments to jfhamm@ziplink.net.
+Be sure to check out "H on the web" at http://www.ziplink.net/~jfhamm.
+
+Thank you for sharing your enjoyment of J.S. Bach with me.
+
